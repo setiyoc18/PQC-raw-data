@@ -1,0 +1,12 @@
+algorithm,run_id,repetition,runtime_s,latency_ms
+Classic-McEliece-348864,Classic-McEliece-348864_run01,1,390.479687,390.479687
+Classic-McEliece-348864,Classic-McEliece-348864_run02,2,389.884793,389.884793
+Classic-McEliece-348864,Classic-McEliece-348864_run03,3,408.718011,408.718011
+Classic-McEliece-348864,Classic-McEliece-348864_run04,4,384.868883,384.868883
+Classic-McEliece-348864,Classic-McEliece-348864_run05,5,391.527208,391.527208
+Classic-McEliece-348864,Classic-McEliece-348864_run06,6,397.237234,397.237234
+Classic-McEliece-348864,Classic-McEliece-348864_run07,7,397.246785,397.246785
+Classic-McEliece-348864,Classic-McEliece-348864_run08,8,392.322338,392.322338
+Classic-McEliece-348864,Classic-McEliece-348864_run09,9,410.890473,410.890473
+Classic-McEliece-348864,Classic-McEliece-348864_run10,10,392.150635,392.150635
+Classic-McEliece-348864,Classic-McEliece-348864_run11,11,386.806866,386.806866

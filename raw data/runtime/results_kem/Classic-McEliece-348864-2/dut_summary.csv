@@ -1,0 +1,7 @@
+algorithm,run_id,repetition,runtime_s,latency_ms
+Classic-McEliece-348864,Classic-McEliece-348864_run01,1,392.223364,392.223364
+Classic-McEliece-348864,Classic-McEliece-348864_run02,2,388.561627,388.561627
+Classic-McEliece-348864,Classic-McEliece-348864_run03,3,401.95865,401.95865
+Classic-McEliece-348864,Classic-McEliece-348864_run04,4,407.038419,407.038419
+Classic-McEliece-348864,Classic-McEliece-348864_run05,5,398.649961,398.649961
+Classic-McEliece-348864,Classic-McEliece-348864_run06,6,401.247171,401.247171
